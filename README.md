@@ -29,4 +29,5 @@ Arduino Pro Mini 328, Adafruit DRV8871 DC Motor Driver, Maxbotix Ultrasonic Rang
 
 ## installation view
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/installation01.jpg" width="900" height="600">
-
+<br />
+<img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/installationdoc.gif">
