@@ -3,7 +3,7 @@
 ## inspriation
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/reference01.jpg" width="720" height="960">
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/reference02.jpg" width="960" height="720">
-<img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/reference02.jpg" width="960" height="720">
+<img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/reference03.jpg" width="960" height="720">
 
 ## needed parts
 uxcell 12VDC 5500RPM Gear Motor, Motor Mounting Bracket Holder, steel wire rope<br />
