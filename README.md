@@ -9,7 +9,7 @@ uxcell 12VDC 5500RPM Gear Motor, Motor Mounting Bracket Holder, Arduino Pro Mini
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/hardware01.jpg" width="900" height="600">
 <br />
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/hardware02.jpg" width="900" height="600">
-<imge src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/motor_test.gif">
+<img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/motor_test.gif">
 
 ## wiring
 
