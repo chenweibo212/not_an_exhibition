@@ -1,4 +1,7 @@
-## not an exhibition installation breakdown
+# not_an_exhibition installation technical breakdown
+
+## overview
+a disturbed viewing experience occurs where “real art space” usually ends.
 
 ## inspriation
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/reference01.jpg" width="720" height="960">
@@ -23,4 +26,7 @@ Arduino Pro Mini 328, Adafruit DRV8871 DC Motor Driver, Maxbotix Ultrasonic Rang
 
 ## wiring
 <img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/hardware03.png" width="959" height="360">
+
+## installation view
+<img src="https://github.com/chenweibo212/not_an_exhibition_2017/blob/master/img/installation01.jpg" width="900" height="600">
 
